@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+rag_env/
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+# Chroma 缓存
+chroma_yijing_demo/
+
+# IDE
+.idea/
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 敏感信息
+.env
+*.log
